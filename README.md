@@ -22,15 +22,25 @@ Ce dépôt contient plusieurs projets pratiques réalisés avec des outils comme
 
 ## 📁 Structure du portfolio
 b.pascal_Portfolio/
+
 ├── README.md              ← Présentation générale
+
 ├── projets/
+
 │   ├── segmentation-vmv/
+
 │   │   ├── README.md
+
 │   │   ├── data/
+
 │   │   └── scripts/
+
 │   ├── clustering-satisfaction/
+
 │   └── dashboard-powerbi/
+
 ├── images/
+
 └── CV_Pascal_Bouda.pdf
 
 
