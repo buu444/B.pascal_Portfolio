@@ -67,7 +67,7 @@ Je suis ouvert aux missions en :
 ## 📬 Me contacter
 
 📧 Email : bouda.pascal@uco.fr  
-📱 LinkedIn : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil) *(à remplacer par le vrai lien)*
+📱 LinkedIn : https://www.linkedin.com/in/pascal-bouda-a74095353/
 
 ---
 
